@@ -3,6 +3,6 @@ This is where i started my portfolio building while taking my Data Analysis clas
 
 
 I have learnt quite number of things ranging from Ms Excel to SQL and now to my Portfolio building 
-[DOWNLOAD HERE](https//www.microsoft.com)
+[DOWNLOAD HERE](https://www.microsoft.com)
 
 
